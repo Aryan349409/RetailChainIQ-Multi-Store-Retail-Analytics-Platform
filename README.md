@@ -51,10 +51,6 @@ The project covers:
 
 The RetailChainIQ Power BI dashboard provides an executive-level view of retail performance.
 
-### Executive Overview
-
-![RetailChainIQ Dashboard](Dashboard/RetailChainIQ_Dashboard.png)
-
 ### Dashboard Areas
 
 - Executive Overview
@@ -232,7 +228,7 @@ Evaluate profit margins, discounts, and loss-making products.
 ### Operational Efficiency
 Analyze shipping costs and delivery-related performance.
 
----
+--
 
 ## 📁 Repository Structure
 
@@ -257,8 +253,7 @@ RetailChainIQ/
 └── Documentation/
     └── Project_Objective.docx
 
-
-
+___
 ## 👤 Author
 
 **Aryan Rai**
